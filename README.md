@@ -1,6 +1,6 @@
 # flutter_diet_app
 
-A new Flutter project.
+This is a Training and Diet app built for the Android forum using Google's Flutter Android SDK:
 
 ## Getting Started
 
